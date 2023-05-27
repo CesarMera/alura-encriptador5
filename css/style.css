@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Nunito', sans-serif;
-    background-color: #d4ddef;
+    background-color: #cbdbfc;
 }
 
 img {
@@ -25,7 +25,7 @@ header .logo {
 }
 
 header p {
-    color: #5b6e93;
+    color: #42538b;
 }
 
 .canal {
@@ -36,7 +36,7 @@ header p {
 }
 
 .canal i {
-    color: red;
+    color: rgb(22, 22, 22);
 }
 
 /* CONTAINER - PRINCIPAL */
@@ -71,7 +71,7 @@ textarea:focus {
 
 .seccion1 p {
     font-size: 13px;
-    color: rgb(49, 68, 84);
+    color: rgb(248, 4, 4);
 }
 
 .seccion1 button,
@@ -110,7 +110,7 @@ textarea:focus {
 .error {
     text-align: center;
     padding: 5px;
-    border: 1px solid rgb(188, 1, 66);
+    border: 1px solid rgb(247, 242, 244);
     color: rgb(188, 1, 66);
     margin: 7px;
     border-radius: 5px;
